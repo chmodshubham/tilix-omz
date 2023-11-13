@@ -18,7 +18,7 @@ sudo update-alternatives --config x-terminal-emulator
 ```
 sudo apt install -y zsh
 sudo apt install -y curl wget git
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/chmodshubham/tilix-omz/main/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ```
